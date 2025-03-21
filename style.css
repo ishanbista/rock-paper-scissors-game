@@ -29,7 +29,8 @@ h1 {
     height: 115px;
     width: 110px;
 }
-.score-board{
+
+.score-board {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -37,10 +38,13 @@ h1 {
     margin-top: 3rem;
     gap: 5rem;
 }
-#userscore, #compscore{
+
+#userscore,
+#compscore {
     font-size: 4rem;
 }
-#msg{
+
+#msg {
     background-color: #000000;
     color: white;
     font-size: 17px;
