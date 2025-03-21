@@ -44,7 +44,7 @@ This is a simple Rock Paper Scissors game I made using HTML, CSS, and JavaScript
 a) Clone the repository: <br>
 git clone https://github.com/yourusername/rock-paper-scissors.git <br>
 b) Navigate to the project folder: <br>
-cd rock-paper-scissors
+cd rock-paper-scissors <br>
 c) Open the index.html file in your web browser.
 
 # Future Enhancements
