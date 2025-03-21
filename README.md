@@ -37,7 +37,17 @@ This is a simple Rock Paper Scissors game I made using HTML, CSS, and JavaScript
 
 * Play again and have fun!
 # Screenshots
+<div align="center">
 
+![Image](https://github.com/user-attachments/assets/ec0dcd0d-3bd1-4a22-be03-266673b71c20)
+
+![Image](https://github.com/user-attachments/assets/2410856f-128e-47e6-b831-489bff32bb5e)
+
+![Image](https://github.com/user-attachments/assets/2387fb9e-8fa0-4c14-9a6a-aa191ea787a8)
+
+![Image](https://github.com/user-attachments/assets/608a75cb-ea04-4df6-9484-04d154fd292f)
+
+</div>
 
 
 # How to Run the Project
